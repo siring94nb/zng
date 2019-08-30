@@ -5,4 +5,4 @@ thinkphp
 vendor
 runtime
 tmp
-database.php
+database
