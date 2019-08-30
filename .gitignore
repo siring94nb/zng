@@ -2,4 +2,7 @@
 composer.lock
 *.log
 thinkphp
-database
+vendor
+runtime
+tmp
+database.php
